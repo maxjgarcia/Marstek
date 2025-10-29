@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 250 150">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st0, .st1 {
+        stroke: #9b9b9b;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle class="st0" cx="117.5" cy="67.5" r="30"/>
+  <line class="st0" x1="117.5" y1="37.5" x2="117.5" y2="22.5"/>
+  <line class="st0" x1="106.02" y1="39.78" x2="100.28" y2="25.93"/>
+  <line class="st0" x1="96.29" y1="46.29" x2="85.68" y2="35.68"/>
+  <line class="st0" x1="89.78" y1="56.02" x2="75.93" y2="50.28"/>
+  <line class="st0" x1="87.5" y1="67.5" x2="72.5" y2="67.5"/>
+  <line class="st0" x1="89.78" y1="78.98" x2="75.93" y2="84.72"/>
+  <line class="st0" x1="96.29" y1="88.71" x2="85.68" y2="99.32"/>
+  <line class="st0" x1="106.02" y1="95.22" x2="100.28" y2="109.07"/>
+  <line class="st0" x1="145.22" y1="56.02" x2="159.07" y2="50.28"/>
+  <line class="st0" x1="138.71" y1="46.29" x2="149.32" y2="35.68"/>
+  <line class="st0" x1="128.98" y1="39.78" x2="134.72" y2="25.93"/>
+  <circle class="st1" cx="147.5" cy="97.5" r="30"/>
+  <polyline class="st0" points="150.83 77.28 137.5 97.28 157.5 97.28 144.17 117.72"/>
+</svg>
