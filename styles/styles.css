@@ -1,0 +1,98 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #ffff;
+  color: #f1f5f9;
+}
+.hero-bg {
+  background-image: url("../assets/Web-Marstek-001.png");
+  background-size: cover;
+  background-position: center;
+}
+.section-2-bg {
+  background-image: url("../assets/Web-Marstek-002.png");
+  background-size: cover;
+  background-position: center;
+}
+.product-card {
+  background-color: #1a1a1a;
+}
+.custom-button {
+  width: auto;
+  text-align: left;
+  background-color: #009dfd;
+  color: white;
+  font-weight: 600;
+  padding-top: 0.55rem;
+  padding-bottom: 0.55rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  margin-top: auto;
+  text-decoration: none;
+}
+.custom-button:hover {
+  background-color: #00ebe3;
+  color: black;
+}
+.custom-button:active {
+  background-color: black;
+  color: white;
+  border: 1px solid #009dfd;
+  transform: scale(0.98);
+}
+
+.product-display-item {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 1 / 1.1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product-display-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.product-display-text {
+  position: absolute;
+  top: 50%;
+  left: 1rem;
+  transform: translateY(-50%);
+  z-index: 2;
+  color: #3b82f6;
+  font-size: 8rem;
+  font-weight: 900;
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  letter-spacing: 0.2em;
+  opacity: 0.8;
+
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  line-height: 1;
+}
+@media (min-width: 768px) {
+  .product-display-text {
+    font-size: 10rem;
+  }
+}
+.powerbank-hero-bg {
+  background-image: url("../assets/Web-Marstek-014.png");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+.kids-camping-bg {
+  background-image: url("../assets/Web-Marstek-016.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  width: 100%;
+}
